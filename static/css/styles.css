@@ -1,0 +1,21 @@
+.employee_form{
+    background-color: black;
+    color: white;
+}
+.button{
+    color: red;
+    font-size: 24px;
+    font-family: Chandas;
+}
+.toggle{
+    background-color: darkorange;
+    text-align: center;
+}
+.button{
+    color: darkgreen;
+    padding: 7px;
+}
+.navigation{
+    background-color: darkorange;
+    border: 3px;
+}
